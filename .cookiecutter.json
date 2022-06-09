@@ -1,0 +1,13 @@
+{
+  "_template": "cookiecutter-hypermodern-python",
+  "author": "Timothy H. Click, Ph.D.",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 3 - Alpha",
+  "email": "timothy.click@briarcliff.edu",
+  "friendly_name": "Scikit Jade",
+  "github_user": "tclick",
+  "license": "GPL-3.0",
+  "package_name": "scikit_jade",
+  "project_name": "scikit-jade",
+  "version": "2022.06"
+}
